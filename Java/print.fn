@@ -1,6 +1,0 @@
-string s = "Hello world!";
-
-println(s);
-
-
-// Submitted by @KickdeGans
